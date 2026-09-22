@@ -11,10 +11,10 @@ pagetitle: Events
 - **[Geometric and Probabilistic Aspects in Quantum Field Theory](https://conferences.cirm-math.fr/3540.html)** — CIRM, France, 31 August–4 September 2026.  
   Talk: “Kenyon identities for the dimer height function and compactified free field”.
 
-- **[Geometric Methods in Percolation and Spin Models](https://www.icts.res.in/event/page/34016)** — ICTS-TIFR, Bangalore.  
+- **[Harmonic functions on Tutte’s embeddings and linearized Monge-Ampère equation](www.imj-prg.fr/gestion/evenement/affSeance/10893)** --- Institut De Mathématiques, Jussieu - Paris Rive Gauche, Séminaire d'Analyse Fonctionnelle, 28 May 2026.
   Talk: “Harmonic functions on Tutte's embeddings and linearized Monge–Ampère equation”.
 
-- **[Geometry, Statistical Mechanics, and Integrability: Reunion Conference 1](https://docs.ipam.ucla.edu/program/p.php?id=3832&mode=pdf)** — IPAM, Lake Arrowhead, California.  
+- **[Geometric Methods in Percolation and Spin Models](https://www.icts.res.in/event/page/34016)** — ICTS-TIFR, Bangalore.  
   Talk: “Harmonic functions on Tutte's embeddings and linearized Monge–Ampère equation”.
 
 - **[2025 Workshop on Mathematical Physics](https://www.unige.ch/math/mpseminar/Diablerets2025.html)** — Les Diablerets, Switzerland.  
