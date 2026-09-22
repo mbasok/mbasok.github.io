@@ -21,3 +21,4 @@ format:
     title-block-style: none
     include-before-body: includes/navigation.html
     include-after-body: includes/navigation-state.html
+    include-in-header: includes/google-verification.html
