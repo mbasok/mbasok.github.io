@@ -1,0 +1,41 @@
+---
+pagetitle: Teaching
+---
+
+<div id="main-content"></div>
+
+# Teaching
+
+Throughout my career, I have had various opportunities to teach university courses, both as a lecturer and as a teaching assistant. Starting from the fall 2021 all except one of these courses were taught in English; before that, most were taught in Russian.
+
+## Courses that I lectured
+
+- **Measure Theory I** — University of Helsinki.  
+  A regular bachelor's-level, 5-credit course taught in English and concluded with a written exam. Besides lecturing, I was responsible for composing exercise sets, organizing the exam, and grading it.
+
+- **Linear Algebra and Matrices II** — University of Helsinki.  
+  I am currently lecturing this regular 5-credit course, taught in English and concluded with a written exam. Besides lecturing, I am responsible for composing exercise sets, organizing the exam, and grading it.
+
+- **Complex Analysis I** — University of Bremen.  
+  I lectured this bachelor's-level course remotely in Russian for Russian students studying at the University of Bremen as part of a program sponsored by JetBrains. The course covered basic complex analysis of a function of one complex variable. I was responsible for composing exercise sets, organizing the exam, and grading it.
+
+## Courses where I was a teaching assistant
+
+- **Harmonic Analysis I** — University of Helsinki.  
+  A master's-level, 5-credit course taught in English. I prepared exercise sets, conducted exercise sessions, and graded homework assignments.
+
+- **Probability Theory II** — University of Helsinki.  
+  A bachelor's-level, 5-credit course taught in English. I conducted exercise sessions and graded homework assignments.
+
+- **Mathematical Analysis** — Saint Petersburg State University, 2018–2021.  
+  I worked continuously as a teaching assistant in a program covering calculus, advanced topics in real analysis, complex analysis, measure theory, and Fourier analysis. My duties included preparing exercise sets, conducting exercise sessions, preparing and organizing tests, and grading. The courses were taught in Russian.
+
+## Other teaching activities
+
+All these activities were conducted in Russian.
+
+- **Random Walk in the Domino World** — organized jointly with Dmitry Chelkak and Marianna Russkikh. The course introduced students to Kenyon's celebrated work on the dimer height function. It consisted of lectures and problem sessions, and I was actively involved in preparing both.
+
+- **Introduction to Functional Analysis**. The course consisted of guided exercise sessions designed to allow students to learn through problem solving. During the year I was responsible for the program, I prepared all exercise materials.
+
+- **Mathematical competitions**. While assisting with the mathematical analysis program at Saint Petersburg State University, I organized several competitions to encourage students to learn the material and practise problem solving.

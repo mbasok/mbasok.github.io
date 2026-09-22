@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - publications.qmd
+    - events.qmd
+    - teaching.qmd
+
+website:
+  title: Mikhail Basok
+  search: false
+
+format:
+  html:
+    theme: [default, theme.scss]
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    lang: en
+    title-block-style: none
+    include-before-body: includes/navigation.html
+    include-after-body: includes/navigation-state.html

@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: Georgia, "Times New Roman", serif;
+$font-family-serif: Georgia, "Times New Roman", serif;
+$font-size-root: 18px;
+$body-color: #252b33;
+$body-bg: #ffffff;
+$link-color: #225a87;
+/*-- scss:rules --*/
+#quarto-content { display: block !important; }
+#quarto-content main { margin: 0; }
+h2 { border-bottom: 0; padding-bottom: 0; }

@@ -1,0 +1,38 @@
+---
+pagetitle: Events
+---
+
+<div id="main-content"></div>
+
+# Events
+
+## Selected talks
+
+- **[Geometric and Probabilistic Aspects in Quantum Field Theory](https://conferences.cirm-math.fr/3540.html)** — CIRM, France, 31 August–4 September 2026.  
+  Talk: “Kenyon identities for the dimer height function and compactified free field”.
+
+- **[Geometric Methods in Percolation and Spin Models](https://www.icts.res.in/event/page/34016)** — ICTS-TIFR, Bangalore.  
+  Talk: “Harmonic functions on Tutte's embeddings and linearized Monge–Ampère equation”.
+
+- **[Geometry, Statistical Mechanics, and Integrability: Reunion Conference 1](https://docs.ipam.ucla.edu/program/p.php?id=3832&mode=pdf)** — IPAM, Lake Arrowhead, California.  
+  Talk: “Harmonic functions on Tutte's embeddings and linearized Monge–Ampère equation”.
+
+- **[2025 Workshop on Mathematical Physics](https://www.unige.ch/math/mpseminar/Diablerets2025.html)** — Les Diablerets, Switzerland.  
+  Talk: “Random walk on planar graphs through the lens of t-embeddings”.
+
+- **[Geometry, Statistical Mechanics, and Integrability](https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/?tab=activities)** — IPAM, Los Angeles, California.  
+  Talk: “Dimers on a Riemann surface and compactified free field”, as part of [Workshop I: Statistical Mechanics and Discrete Geometry](https://www.ipam.ucla.edu/programs/workshops/workshop-i-statistical-mechanics-and-discrete-geometry/?tab=speaker-list) within the long program.
+
+- **[Helsinki–Stockholm Probability and Mathematical Physics Days 2024](https://indico.fysik.su.se/event/8893/)**.  
+  Talk: “Random walk on planar graphs through the lens of t-embeddings”.
+
+- **[2023 Workshop on Mathematical Physics](https://www.unige.ch/math/mpseminar/Events/Diablerets2023/diablerets2023.html)** — Les Diablerets, Switzerland.  
+  Talk: “Dimers on a Riemann surface and compactified free field”.
+
+## Organization
+
+While working as a postdoc at the University of Helsinki, I participated in organizing two conferences:
+
+- **[Stochastic Sauna 2024](https://math.aalto.fi/en/research/stochastics/sauna2024/)**. This annual conference in Finland brings together groups working in probability across Finland and beyond to share their results. Organized jointly with Jonas Tölle and Joona Oikarinen.
+
+- **[Interplay of Conformal Geometry and Integrability](https://sites.google.com/view/icgi-math-arctic/home)** — Kilpisjärvi Research Station, University of Helsinki, Lapland, 2026. This workshop brought together experts in geometry and mathematical physics. Organized jointly with Eveliina Peltola, Konstantin Izyurov, and Harini Desiraju.

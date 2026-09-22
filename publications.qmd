@@ -1,0 +1,42 @@
+---
+pagetitle: Publications
+---
+
+<div id="main-content"></div>
+
+# Publications
+
+<!-- Newest to oldest by journal issue year where available; otherwise first arXiv year. List each work once. -->
+
+1. **Harmonic functions on Tutte's embeddings and linearized Monge–Ampère equation**.  
+   Mikhail Basok, Dmitry Chelkak, Benoît Laslier, and Marianna Russkikh. Preprint (2025). [arXiv:2511.06587](https://arxiv.org/abs/2511.06587).
+
+2. **Kenyon's identities for the height function and compactified free field in the dimer model**.  
+   Mikhail Basok. Preprint (2025). [arXiv:2511.03804](https://arxiv.org/abs/2511.03804).
+
+3. **Nesting of double-dimer loops: local fluctuations and convergence to the nesting field of CLE(4)**.  
+   Mikhail Basok and Konstantin Izyurov. Preprint (2025). [arXiv:2501.01574](https://arxiv.org/abs/2501.01574).
+
+4. **Dimers on Riemann surfaces and compactified free field**.  
+   Mikhail Basok. *The Annals of Probability*, forthcoming. Preprint (2023). [arXiv:2309.14522](https://arxiv.org/abs/2309.14522). 
+
+5. **Tau-functions à la Dubédat and probabilities of cylindrical events for double-dimers and CLE(4)**.  
+   Mikhail Basok and Dmitry Chelkak. *Journal of the European Mathematical Society* **23**(8), 2787–2832 (2021). [Journal version](https://doi.org/10.4171/JEMS/1072) · [arXiv:1809.00690](https://arxiv.org/abs/1809.00690).
+
+6. **On uniqueness in Steiner problem**.  
+   Mikhail Basok, Danila Cherkashin, Nikita Rastegaev, and Yana Teplitskaya. *International Mathematics Research Notices* **2024**(10), 8819–8838 (2024). [Journal version](https://doi.org/10.1093/imrn/rnae025) · [arXiv:1809.01463](https://arxiv.org/abs/1809.01463).
+
+7. **Homology of the pronilpotent completion and cotorsion groups**.  
+   Mikhail Basok, Sergei O. Ivanov, and Roman Mikhailov. *Israel Journal of Mathematics* **261**, 281–312 (2024). [Journal version](https://doi.org/10.1007/s11856-023-2579-4) · [arXiv:2107.01485](https://arxiv.org/abs/2107.01485).
+
+8. **Inverse maximal and average distance minimizer problems**.  
+   Mikhail Basok, Danila Cherkashin, and Yana Teplitskaya. Preprint (2022). [arXiv:2212.01903](https://arxiv.org/abs/2212.01903).
+
+9. **On some degeneracy loci in the moduli space of pointed odd spin curves**.  
+   M. K. Basok. *St. Petersburg Mathematical Journal* **32**(5), 819–845 (2021). [Journal version](https://doi.org/10.1090/spmj/1672) · [arXiv:1509.02359](https://arxiv.org/abs/1509.02359) (preprint title: *On the class of caustic on the moduli space of odd spin curves*).
+
+10. **Discriminant and Hodge classes on the space of Hitchin covers**.  
+    Mikhail Basok. *Letters in Mathematical Physics* **110**(10), 2659–2674 (2020). [Journal version](https://doi.org/10.1007/s11005-020-01303-y) · [arXiv:1904.00489](https://arxiv.org/abs/1904.00489).
+
+11. **Tau function and moduli of spin curves**.  
+    Mikhail Basok. *International Mathematics Research Notices* **2015**(20), 10095–10117 (2015). [Journal version](https://doi.org/10.1093/imrn/rnu273) · [arXiv:1405.7865](https://arxiv.org/abs/1405.7865).
