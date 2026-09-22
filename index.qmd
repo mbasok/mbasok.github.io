@@ -14,7 +14,9 @@ description: "Mikhail Basok, postdoctoral researcher at Aalto University. Resear
 
 <p style="margin-bottom: 20px;">and before that --- at École normale supérieure (Paris). </p>
 
-<p> I obtained my PhD in 2021 at Steklov Institute, St. Petersburg. </p>
+<p style="margin-bottom: 20px;"> I obtained my PhD in 2021 at Steklov Institute, St. Petersburg. </p>
+
+<p> email: m.k.basok(at)gmail.com </p>
 </div>
 <!-- Replace this div with: <img class="portrait" src="images/portrait.jpg" alt="Mikhail Basok" width="148" height="176"> -->
 <img class="portrait"
