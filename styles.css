@@ -30,6 +30,10 @@ a:focus-visible, summary:focus-visible { outline: 2px solid var(--link); outline
 details { margin-top: .35rem; }
 summary { color: var(--link); cursor: pointer; width: fit-content; font: .81rem/1.7 system-ui, sans-serif; text-decoration: underline; text-underline-offset: .16em; }
 details p { margin: .7rem 0 0; }
+.ai-statement { margin-top: 2.5rem; }
+.ai-statement > summary { color: var(--ink); font: inherit; text-decoration: none; }
+.ai-statement > summary h2 { display: inline; margin: 0; }
+.ai-statement + #selected-works > h2 { margin-top: 3.5rem; }
 .summary-placeholder { color: var(--muted); font-style: italic; }
 ol, ul { padding-left: 1.35rem; }
 li { padding-left: .35rem; margin-bottom: 1.25rem; }

@@ -35,6 +35,11 @@ My hobbies include geometric optimisation problems (see <a href="https://arxiv.o
 <a href="https://scholar.google.com/citations?user=ZXLHIsoAAAAJ&amp;hl=en">Google Scholar</a>
 </div>
 
+<details class="ai-statement">
+<summary><h2 id="ai-statement-title">AI statement</h2></summary>
+<p>All my works produced before October 2026, as well as the preprint "T-embeddings as stationary measures on T-graphs" uploaded in October 2026 are produced without any AI assistance. However, I am experimenting with AI in some (but not all) of my current projects; the most recent result of these experiments is the positive resolution of a conjecture posed by Chelkak, Laslier and Russkikh: <a href="https://hexagonmath.org/2610.00520v1">this link</a>. I believe that, while AI certainly opens new perspectives in math, its use must be responsible, in particular, I strongly believe that the quality of a mathematical works must always prevale over their quantity.</p>
+</details>
+
 ## Selected works
 
 [Full publication list](publications.qmd)
